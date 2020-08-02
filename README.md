@@ -1,2 +1,2 @@
-# plugins
-Plugins for LLS WS
+# Plugins
+Some necessary plugins for LLS WS
